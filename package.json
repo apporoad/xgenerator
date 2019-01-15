@@ -1,0 +1,22 @@
+{
+  "name": "xgenerator.js",
+  "version": "1.0.0",
+  "description": "awesome generator for x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/xgenerator.git"
+  },
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/xgenerator/issues"
+  },
+  "homepage": "https://github.com/apporoad/xgenerator#readme",
+  "dependencies": {
+    "pplugins.js": "git+https://github.com/apporoad/pplugins.js.git"
+  }
+}
